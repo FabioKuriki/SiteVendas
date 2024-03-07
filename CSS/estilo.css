@@ -1,0 +1,16 @@
+body{
+    background-color: #535353;
+    margin: 0%; /* Espaço externo da página */
+    padding: 0%; /* Espaço interno da página */
+}
+
+.incial{
+    background-color: #e6dddde1;
+    width: 25%;
+    height: 25%;
+}
+
+#imagemInicial{
+    margin: 5%;
+    padding: 10%;
+}
