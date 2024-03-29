@@ -242,3 +242,8 @@ header{
         height: 10%;
     }
 }
+
+#formulario{
+    text-align: center;
+    background-color: rgb(241, 236, 236);
+}
